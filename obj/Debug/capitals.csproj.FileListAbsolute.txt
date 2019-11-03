@@ -1,0 +1,14 @@
+C:\Users\thinkpad\source\repos\capitals\capitals\bin\Debug\capitals.exe.config
+C:\Users\thinkpad\source\repos\capitals\capitals\bin\Debug\capitals.exe
+C:\Users\thinkpad\source\repos\capitals\capitals\bin\Debug\capitals.pdb
+C:\Users\thinkpad\source\repos\capitals\capitals\obj\Debug\capitals.csprojResolveAssemblyReference.cache
+C:\Users\thinkpad\source\repos\capitals\capitals\obj\Debug\capitals.Form1.resources
+C:\Users\thinkpad\source\repos\capitals\capitals\obj\Debug\capitals.Properties.Resources.resources
+C:\Users\thinkpad\source\repos\capitals\capitals\obj\Debug\capitals.csproj.GenerateResource.Cache
+C:\Users\thinkpad\source\repos\capitals\capitals\obj\Debug\capitals.csproj.CoreCompileInputs.cache
+C:\Users\thinkpad\source\repos\capitals\capitals\obj\Debug\capitals.exe
+C:\Users\thinkpad\source\repos\capitals\capitals\obj\Debug\capitals.pdb
+C:\Users\thinkpad\source\repos\capitals\capitals\bin\Debug\capitals.exe.manifest
+C:\Users\thinkpad\source\repos\capitals\capitals\bin\Debug\capitals.application
+C:\Users\thinkpad\source\repos\capitals\capitals\obj\Debug\capitals.exe.manifest
+C:\Users\thinkpad\source\repos\capitals\capitals\obj\Debug\capitals.application
